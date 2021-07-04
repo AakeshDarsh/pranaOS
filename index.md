@@ -17,6 +17,12 @@
 # Any Issues?:
 - [open a issue in github](https://github.com/pranaOS/pranaOS/issues)
 
+# Download pranaOS:
+- [pranaOS download](https://github.com/pranaOS/pranaOS/releases)
+
+# Build Instructions:
+- [pranaOS build instructions](https://github.com/pranaOS/pranaOS/blob/master/docs/build.md)
+
 # Contributors:
 
 - [krishpranav (author)](https://github.com/krishpranav) 
