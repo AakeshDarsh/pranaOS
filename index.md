@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# pranaOS official website:
 
-You can use the [editor on GitHub](https://github.com/pranaOS/pranaOS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align='center'>
+  <img src='https://github.com/pranaOS/pranaOS/blob/master/sysroot/Files/pranaOS.jpg'>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# About pranaOS:
+- A unix operating system written from scratch in c++ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Our goal:
+- our goal is to give support for an old unsupported devices and give support for arm devices
 
-```markdown
-Syntax highlighted code block
+# Join us:
+[Pull Request Are Accepted](https://github.com/pranaOS/pranaOS/pulls)
 
-# Header 1
-## Header 2
-### Header 3
+# Any Issues?:
+- [open a issue in github](https://github.com/pranaOS/pranaOS/issues)
 
-- Bulleted
-- List
+# Contributors:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pranaOS/pranaOS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [krishpranav (author)](https://github.com/krishpranav) 
+- [nuke123-sudo](https://github.com/nuke123-sudo)
+- [evilbat831](https://github.com/evilbat831)
+- [michaelsmith213](https://github.com/michaelsmith213)
+- [Alex5xt](https://github.com/Alex5xt)
