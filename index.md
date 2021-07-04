@@ -1,7 +1,7 @@
 # pranaOS official website:
 
 <p align='center'>
-  <img src='https://github.com/pranaOS/pranaOS/blob/master/sysroot/Files/pranaOS.jpg'>
+  <img src='https://github.com/pranaOS/pranaOS/blob/gh-pages/pranaOS.jpg'>
 </p>
 
 
